@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-idgham-assimilation",
+  "description": "Homorganic & Geminate Consonant Assimilation Engine (محلل الإدغام للمتماثلين والمتجانسين والمتقاربين)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
